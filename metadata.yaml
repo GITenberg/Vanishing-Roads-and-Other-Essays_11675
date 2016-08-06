@@ -1,0 +1,39 @@
+_repo: Vanishing-Roads-and-Other-Essays_11675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Gallienne, Richard
+    aliases:
+    - LeGallienne, Richard
+    - Gallienne, Richard Le
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+- GITenberg
+tableOfContents: 'Vanishing roads -- Woman as a supernatural being -- The lack of
+  imagination among millionaires -- The passing of Mrs. Grundy -- Modern aids to romance
+  -- The last call -- The persecutions of beauty -- The many faces: the one dream
+  -- The snows of yester-year -- The psychology of gossip -- The passing away of the
+  editor -- The spirit of the open -- An old American tow-path -- A modern Saint Francis
+  -- The little ghost in the garden -- The English countryside -- London: changing
+  and unchanging -- The haunted restaurant -- The new Pyramus and Thisbe -- Two wonderful
+  old ladies -- A Christmas meditation -- On re-reading Walter Pater -- The mystery
+  of "Fiona Macleod" -- Forbes-Robertson: an appreciation -- A memory of Frédéric
+  Mistral -- Imperishable fiction -- The man behind the pen -- Bulls in china-shops
+  -- The Bible and the butterfly.'
+title: Vanishing Roads and Other Essays
+url: http://www.gutenberg.org/ebooks/11675
